@@ -1,0 +1,17 @@
+.fly-sm {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    @include fly-sm();
+}
+
+.fly {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    @include fly();
+}
+
+.fly-lg {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    @include fly-lg();
+}

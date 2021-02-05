@@ -1,0 +1,252 @@
+
+---Downloaded files---
+The import files for: Ecommerce WPBakery were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/brite
+Data file = C:\xampp\htdocs\brite/wp-content/uploads/2021/02/demo-content-import-file_2021-02-03__12-42-26.xml
+Widget file = C:\xampp\htdocs\brite/wp-content/uploads/2021/02/demo-widgets-import-file_2021-02-03__12-42-26.json
+Customizer file = not defined!
+Redux files:
+pix_options -> C:\xampp\htdocs\brite/wp-content/themes/essentials/inc/demo-content/sites/ecommerce/ecommerce-wpbakery-options.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_tag box
+[WARNING] Failed to import product_tag camera
+[WARNING] Failed to import product_tag clock
+[WARNING] Failed to import product_tag coffe
+[WARNING] Failed to import product_tag cup
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag design
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat food
+[WARNING] Failed to import product_tag food
+[WARNING] Failed to import product_tag green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag jam
+[WARNING] Failed to import product_tag jus
+[WARNING] Failed to import product_tag modern
+[WARNING] Failed to import product_tag nike
+[WARNING] Failed to import product_cat Nike
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag pack
+[WARNING] Failed to import product_tag plant
+[WARNING] Failed to import product_tag premium
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag sweet
+[WARNING] Failed to import product_tag Tech
+[WARNING] Failed to import product_cat Tech
+[WARNING] Failed to import product_cat Tools
+[WARNING] Failed to import product_tag tree
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag women
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_tag box
+[WARNING] Failed to import product_tag camera
+[WARNING] Failed to import product_tag clock
+[WARNING] Failed to import product_tag coffe
+[WARNING] Failed to import product_tag cup
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag design
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat food
+[WARNING] Failed to import product_tag food
+[WARNING] Failed to import product_tag green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag jam
+[WARNING] Failed to import product_tag jus
+[WARNING] Failed to import product_tag modern
+[WARNING] Failed to import product_tag nike
+[WARNING] Failed to import product_cat Nike
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag pack
+[WARNING] Failed to import product_tag plant
+[WARNING] Failed to import product_tag premium
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag sweet
+[WARNING] Failed to import product_tag Tech
+[WARNING] Failed to import product_cat Tech
+[WARNING] Failed to import product_cat Tools
+[WARNING] Failed to import product_tag tree
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag women
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_tag box
+[WARNING] Failed to import product_tag camera
+[WARNING] Failed to import product_tag clock
+[WARNING] Failed to import product_tag coffe
+[WARNING] Failed to import product_tag cup
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag design
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat food
+[WARNING] Failed to import product_tag food
+[WARNING] Failed to import product_tag green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag jam
+[WARNING] Failed to import product_tag jus
+[WARNING] Failed to import product_tag modern
+[WARNING] Failed to import product_tag nike
+[WARNING] Failed to import product_cat Nike
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag pack
+[WARNING] Failed to import product_tag plant
+[WARNING] Failed to import product_tag premium
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag sweet
+[WARNING] Failed to import product_tag Tech
+[WARNING] Failed to import product_cat Tech
+[WARNING] Failed to import product_cat Tools
+[WARNING] Failed to import product_tag tree
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag women
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_tag box
+[WARNING] Failed to import product_tag camera
+[WARNING] Failed to import product_tag clock
+[WARNING] Failed to import product_tag coffe
+[WARNING] Failed to import product_tag cup
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag design
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat food
+[WARNING] Failed to import product_tag food
+[WARNING] Failed to import product_tag green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag jam
+[WARNING] Failed to import product_tag jus
+[WARNING] Failed to import product_tag modern
+[WARNING] Failed to import product_tag nike
+[WARNING] Failed to import product_cat Nike
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag pack
+[WARNING] Failed to import product_tag plant
+[WARNING] Failed to import product_tag premium
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag sweet
+[WARNING] Failed to import product_tag Tech
+[WARNING] Failed to import product_cat Tech
+[WARNING] Failed to import product_cat Tools
+[WARNING] Failed to import product_tag tree
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag women
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_tag box
+[WARNING] Failed to import product_tag camera
+[WARNING] Failed to import product_tag clock
+[WARNING] Failed to import product_tag coffe
+[WARNING] Failed to import product_tag cup
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag design
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat food
+[WARNING] Failed to import product_tag food
+[WARNING] Failed to import product_tag green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag jam
+[WARNING] Failed to import product_tag jus
+[WARNING] Failed to import product_tag modern
+[WARNING] Failed to import product_tag nike
+[WARNING] Failed to import product_cat Nike
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag pack
+[WARNING] Failed to import product_tag plant
+[WARNING] Failed to import product_tag premium
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag sweet
+[WARNING] Failed to import product_tag Tech
+[WARNING] Failed to import product_cat Tech
+[WARNING] Failed to import product_cat Tools
+[WARNING] Failed to import product_tag tree
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag women
+
+
+---Importing widgets---
+Main Sidebar : 
+
+pix_small_search - Search - Site does not support widget
+pix_promo_box - Call to action - Site does not support widget
+Tag Cloud - No Title - Imported
+pix_recent_posts - Recent Posts - Site does not support widget
+pix_categories - Categories - Site does not support widget
+pix_social - Social Links - Site does not support widget
+
+
+
+---Importing Redux settings---
+The Redux plugin is not activated, so the Redux import was skipped!
